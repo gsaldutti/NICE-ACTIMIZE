@@ -55,7 +55,7 @@
 
 ### Fin-Techs came onto the market after the 2008 global recession. They developed a new customer experience with low to no cost products, simple onboarding, convenience and a fully digital engagement.  Reg-Tech is a sub-class of Fin-Tech and has gained prominence since 2015.  Reg-techs, like fin-techs, made their name with trade finance applications. Their total market value is expected to reach $55 billion by 2025, at a compound annual growth rate of 53 percent. Corporations are expected to cut the cost of compliance and generate insight that can deliver additional value. The rising number of fraudulent activities has been a significant factor driving the growth. In addition, the increasing need for risk and compliance management has led to the increased adoption of regulatory technology (Reg-Tech) solutions. The implementation of these solutions helps reduce compliance costs and improve efficiency. It also speeds up business processes, enhances their ability, and reduces hassle for customers and the risk of compliance failures.
 
-NICE-Actimize's competition are listed below:
+### NICE-Actimize's competition are listed below:
 
 - PwC
 - London Stock Exchange
@@ -79,5 +79,38 @@ NICE-Actimize's competition are listed below:
 - 5/5 TOP U.S. Telco2
 -	9/10 TOP Global Financial Services
 -	6/10 TOP Fortune 10
+
+### NICE-Actimize clients include:
+
+- UBS
+- Citibank
+- Barclays Bank
+- Credit Agricole
+- DBS
+- Mizuhi Bank
+- MUGU
+- Scotiabank
+-	Société Générale
+-	Union Bank
+-	UAE Echange
+-	Green Dot
+-	Key Bank
+-	Fifth Third Bank
+-	Brown Brothers Harriman
+-	Morgan Stanley
+
+
+### NICE-Actimize is a publicly traded company under the symbol “NICE”. Public companies are required report the same metrics. Below are the latest metrics NICE has published. As compared to their competition, NICE is out performing their competition.
+
+Revenues: Third quarter 2021 total revenues increased 19.7% to $490.4 million compared to $409.8 million for the third quarter of 2020. 
+
+Gross Profit: Third quarter 2021 gross profit and gross margin increased to $329.6 million and 67.2%, respectively, compared to $269.7 million and 65.8%, respectively, for the third quarter of 2020.
+
+Operating Income: Third quarter 2021 operating income increased 3.6% to $64.2 million compared to $62.0 million, for the third quarter of 2020. Third quarter operating margin decreased to 13.1% compared to 15.1%, for the third quarter of 2020. 
+
+Net Income: Third quarter 2021 net income totaled $47.2 million compared to $50.7 for the third quarter of 2020. Net income margin decreased to 9.6% compared to 12.4% for the third quarter of 2020. 
+
+Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third quarter of 2021 decreased to $0.70, compared to $0.76 in the third quarter of 2020.
+
 - 
 
