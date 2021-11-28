@@ -98,6 +98,30 @@
 -	Fifth Third Bank
 -	Brown Brothers Harriman
 -	Morgan Stanley
+-	Algar
+-	Accenture
+-	American Airlines
+-	CRC
+-	UNISYS
+-	Beacon
+-	The Results Group
+-	Tech Style Fachions
+-	TASC
+-	Sistel Group
+-	Mapfire
+-	OI BTCC
+-	LIQ Partcioaroes
+-	Money Gram
+-	FISERV
+-	First Energy
+-	VOYA Financial
+-	Forth Worth
+-	Desjardines
+-	NELNET
+-	Blus Cross of Idaho
+-	Care Source
+-	Toyota Financial Services
+-	VISA
 
 
 ### NICE-Actimize is a publicly traded company under the symbol “NICE”. Public companies are required report the same metrics. Below are the latest metrics NICE has published. As compared to their competition, NICE is out performing their competition.
