@@ -55,3 +55,29 @@
 
 ### Fin-Techs came onto the market after the 2008 global recession. They developed a new customer experience with low to no cost products, simple onboarding, convenience and a fully digital engagement.  Reg-Tech is a sub-class of Fin-Tech and has gained prominence since 2015.  Reg-techs, like fin-techs, made their name with trade finance applications. Their total market value is expected to reach $55 billion by 2025, at a compound annual growth rate of 53 percent. Corporations are expected to cut the cost of compliance and generate insight that can deliver additional value. The rising number of fraudulent activities has been a significant factor driving the growth. In addition, the increasing need for risk and compliance management has led to the increased adoption of regulatory technology (Reg-Tech) solutions. The implementation of these solutions helps reduce compliance costs and improve efficiency. It also speeds up business processes, enhances their ability, and reduces hassle for customers and the risk of compliance failures.
 
+NICE-Actimize's competition are listed below:
+
+- PwC
+- London Stock Exchange
+- BWise
+- IBM
+- Broadridge Financial Solutions
+- Tableau
+- Accuity
+- Rimes Technologies Corp.
+- Wolters Kluwer
+- Compendor
+- Infrasoft Technologies
+- Deloitte Touche Tohmatsu Ltd.
+
+
+
+
+###	NICE-Actimize has over 25,000 customers, including more than 85 of the Fortune 100 companies. The company’s customers are in the below top categories:
+
+- 10/10 TOP U.S. Health Care
+- 5/5 TOP U.S. Telco2
+-	9/10 TOP Global Financial Services
+-	6/10 TOP Fortune 10
+- 
+
