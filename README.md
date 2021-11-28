@@ -35,4 +35,6 @@
  2. Market Visitation
  3. Cloud Trade Surveillance
 
-![NICE Snapshot](https://photos.google.com/album/AF1QipPNhHoHMo2tgHkau5xfgmI0rjvWP8bg-iXyke-e/photo/AF1QipMrOWgZgonJ1Uqh7H0pL-y_gVCqud_AcXULvS2d)
+![NICE Snapshot](https://photos.google.com/album/AF1QipPNhHoHMo2tgHkau5xfgmI0rjvWP8bg-iXyke-e/photo/AF1QipMrOWgZgonJ1Uqh7H0pL-y_gVCqud_AcXULvS2d
+
+### What next
