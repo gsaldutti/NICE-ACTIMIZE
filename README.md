@@ -38,5 +38,14 @@
 ### NICE Actimize offers the following solutions:
 
  - (AML) Anti-Money Laundering
+ - Fraud and Authentication Management
+ - Investigation and Case Management
+ - Data Intelligence
+ - Cloud Services
+
+### NICE-Actimize has an advantage over its competition with NICE Actimize’s Financial Markets Compliance solution which can handle 1 billion records per day, and is expected to  be scalable to 1.5 billion records in the near future. It can also handle millions of reports, alerts, workflows, complex hierarchies, and Hadoop clusters. Continuous twenty-four-hour trading cycles, records and trading books are passed between trading desks via the NICE Actimize Financial Market Compliance system, offering exceptional protection against legal and regulatory risk. Their competition cannot handle such large trading volume.
+
+### Some of the technologies that NICE-Actimize is using are below. They are implemented via an agile methodology. Project team and stakeholders, implementation plan, data cleansing and migration, testing and data validation and training and support
+
 
 
