@@ -69,6 +69,10 @@
 - Compendor
 - Infrasoft Technologies
 - Deloitte Touche Tohmatsu Ltd.
+- Catelas
+- ACA
+- Foreside
+
 
 
 
