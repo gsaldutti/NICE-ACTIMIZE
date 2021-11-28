@@ -142,7 +142,11 @@ Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third
 
 ![nice shapshot](https://user-images.githubusercontent.com/9448001/143779131-3c3fdbb2-bd42-4dc3-b8df-dc1433150ca1.JPG)
 
-### 
+
+### Below is a 5 year chart of NICE compared to the DOW, S&P 500 and NASDAQ, NICE outperformed all of the Indices. The 5 year total return of an investment of 1000 shares of NICE is 4,184.83% or an annual ROI of 112.02%
+
+![roi NICE](https://user-images.githubusercontent.com/9448001/143781948-3053032a-bd6f-484d-8e90-e4fd6166d048.JPG)
+
 
 ![image](https://user-images.githubusercontent.com/9448001/143781726-6b087bbc-ca28-41dd-9c7c-16d64dc2424c.png)
 
