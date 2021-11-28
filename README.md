@@ -47,5 +47,14 @@
 
 ### Some of the technologies that NICE-Actimize is using are below. They are implemented via an agile methodology. Project team and stakeholders, implementation plan, data cleansing and migration, testing and data validation and training and support
 
+- JQuery
+- Bootstrap
+- ASP.NET
+- Select2
+- Incapusla
 
+
+### NICE-Actimize is in Regulation Technology domain. Reg-tech is the management of regulatory processes within the financial industry through technology. The main functions of reg-tech include regulatory monitoring, reporting, and compliance. Regulatory Technology is a technology that allows firms to easily adapt to the pressure of increasing regulatory reporting, while being cost-effective and secure. This technology allows companies to automate the process of monitoring data. Regtech simplifies the process of regulatory requirements.
+
+### Fin-Techs came onto the market after the 2008 global recession. They developed a new customer experience with low to no cost products, simple onboarding, convenience and a fully digital engagement.  Reg-Tech is a sub-class of Fin-Tech and has gained prominence since 2015.  Reg-techs, like fin-techs, made their name with trade finance applications. Their total market value is expected to reach $55 billion by 2025, at a compound annual growth rate of 53 percent. Corporations are expected to cut the cost of compliance and generate insight that can deliver additional value. The rising number of fraudulent activities has been a significant factor driving the growth. In addition, the increasing need for risk and compliance management has led to the increased adoption of regulatory technology (Reg-Tech) solutions. The implementation of these solutions helps reduce compliance costs and improve efficiency. It also speeds up business processes, enhances their ability, and reduces hassle for customers and the risk of compliance failures.
 
