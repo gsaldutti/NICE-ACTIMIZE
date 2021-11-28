@@ -114,5 +114,11 @@ Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third
 
 ![nice shapshot](https://user-images.githubusercontent.com/9448001/143779131-3c3fdbb2-bd42-4dc3-b8df-dc1433150ca1.JPG)
 
+![nice chart](https://user-images.githubusercontent.com/9448001/143779176-58cf9722-08be-4ae6-8ea9-d8ccd9e91965.JPG)
+
+![nice analyst](https://user-images.githubusercontent.com/9448001/143779189-346104a6-7683-481e-914d-be3f141a2d08.JPG)
+
+
+
 
 
