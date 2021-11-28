@@ -1,11 +1,8 @@
-# Case Study: Nice-Actimize
 
 
-## From Regulatory pressure to improved Compliance Operational Efficiency
+## A Case Study: NICE Actimize
 
-### A Case Study: NICE Actimize
-
-### From Regulatory Pressure to Improved Compliance Operational Efficiency
+##From Regulatory Pressure to Improved Compliance Operational Efficiency
 
 ### NICE Ltd., formerly NICE-Systems Ltd., is a global enterprise software provider. The Company's segments include Customer Interactions Solutions, and Financial Crime and Compliance Solutions. The Customer Interactions Solutions segment provides data driven insights that enable businesses to deliver personalized experience to customers. The Financial Crime and Compliance Solutions segment provides real time and cross-channel fraud prevention, anti-money laundering, brokerage compliance and enterprise-wide case management. The Company serves contact centers, back-office operations and retail branches, covering various industries, including communications, banking, insurance, healthcare, business processes outsourcing (BPO), government, utilities, travel and entertainment. Its Multi-Channel Recording and Interaction Management enables organizations to capture structured and unstructured customer interaction and transaction data from multiple channels.
 
