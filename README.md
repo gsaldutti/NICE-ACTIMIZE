@@ -14,8 +14,6 @@
 
 ### Business Activities.
 
-### What specific financial problems is the company trying to solve?
-
 ### Anti-Money Laundering
  1. Suspicious Activity Monitoring (SAM)
  2. Customer Due Diligence (CCD)
