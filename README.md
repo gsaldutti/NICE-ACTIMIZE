@@ -112,5 +112,6 @@ Net Income: Third quarter 2021 net income totaled $47.2 million compared to $50.
 
 Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third quarter of 2021 decreased to $0.70, compared to $0.76 in the third quarter of 2020.
 
-- 
+![nice analyst](https://user-images.githubusercontent.com/9448001/143779093-80e602c0-5d65-4c2d-9d4e-ff928588249f.JPG)
+
 
