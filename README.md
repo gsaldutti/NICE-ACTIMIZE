@@ -150,6 +150,9 @@ Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third
 
 ![image](https://user-images.githubusercontent.com/9448001/143781726-6b087bbc-ca28-41dd-9c7c-16d64dc2424c.png)
 
+### NICE is expected to OUTPERFORM in the next year. Analysts cites the company's revenue accelerating up to 25% thanks to the strength in cloud and some pent-up product demand while its new CXone bookings were up 100% with strength in large deals.
+
+
 ![nice analyst](https://user-images.githubusercontent.com/9448001/143779189-346104a6-7683-481e-914d-be3f141a2d08.JPG)
 
 
