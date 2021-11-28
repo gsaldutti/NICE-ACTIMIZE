@@ -35,6 +35,8 @@
  2. Market Visitation
  3. Cloud Trade Surveillance
 
- (AML) Anti-Money Laundering
+### NICE Actimize offers the following solutions:
+
+ - (AML) Anti-Money Laundering
 
 
