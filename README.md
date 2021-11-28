@@ -138,9 +138,13 @@ Net Income: Third quarter 2021 net income totaled $47.2 million compared to $50.
 
 Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third quarter of 2021 decreased to $0.70, compared to $0.76 in the third quarter of 2020.
 
+### NICE trades on the NASDAQ Exchange as an (ADR) American Depository Receipt. An ADR is a certificate issued by a U.S. Bank that represents shares in foreign stock.ADRs and their dividends are priced in U.S. Dollars. 
+
 ![nice shapshot](https://user-images.githubusercontent.com/9448001/143779131-3c3fdbb2-bd42-4dc3-b8df-dc1433150ca1.JPG)
 
-![nice chart](https://user-images.githubusercontent.com/9448001/143779176-58cf9722-08be-4ae6-8ea9-d8ccd9e91965.JPG)
+### 
+
+![image](https://user-images.githubusercontent.com/9448001/143781726-6b087bbc-ca28-41dd-9c7c-16d64dc2424c.png)
 
 ![nice analyst](https://user-images.githubusercontent.com/9448001/143779189-346104a6-7683-481e-914d-be3f141a2d08.JPG)
 
