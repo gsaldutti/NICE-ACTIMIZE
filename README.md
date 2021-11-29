@@ -40,14 +40,6 @@
  2. Market Visitation
  3. Cloud Trade Surveillance
 
-### NICE Actimize offers the following solutions:
-
- - (AML) Anti-Money Laundering
- - Fraud and Authentication Management
- - Investigation and Case Management
- - Data Intelligence
- - Cloud Services
-
 ## Landscape
 
 ## NICE-Actimize is in Regulation Technology domain. Reg-tech is the management of regulatory processes within the financial industry through technology. The main functions of reg-tech include regulatory monitoring, reporting, and compliance. Regulatory Technology is a technology that allows firms to easily adapt to the pressure of increasing regulatory reporting, while being cost-effective and secure. This technology allows companies to automate the process of monitoring data. Regtech simplifies the process of regulatory requirements.
