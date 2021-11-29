@@ -218,7 +218,7 @@ Israel Defense Forces
 https://en.wikipedia.org/wiki/Israel_Defense_Forces
 
 Interviews with:
-Morgan Stanley Actimize user
+Morgan Stanley Actimize user and 
 Barclays Bank Actimize user
 
 
