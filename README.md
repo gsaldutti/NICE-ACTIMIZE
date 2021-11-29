@@ -176,7 +176,7 @@ Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third
 - There is a lack of flexibility with reading trade inventory. With an Open-Source version, the in-house developers could increase customization. 
 - When using the Global Search functionality, and looking up trade alerts, which could number in the thousands, there is no way to export these results into an excel file. It becomes a very tedious job to open up each alert.
 -	Another recommendation is for Actimize to have the ability to create reports from their own software. Currently, these compliance reports are created form upstream systems and fed into Actimize
--		Alerts are generated because of some limit on a stored procedure has been reached. The alerts are trades done by the client by one of the traders on a trading desk. Along with the trade is there is also a voice conversation between the two traders that needs to be listened to. Currently, Actimize cannot capture that voice conversation and the analyst has to obtain the voice recording from another system.
+-	Alerts are generated because of some limit on a stored procedure has been reached. The alerts are trades done by the client by one of the traders on a trading desk. Along with the trade is there is also a voice conversation between the two traders that needs to be listened to. Currently, Actimize cannot capture that voice conversation and the analyst has to obtain the voice recording from another system.
 -	There are many analysts that use Actimize within an investment bank. The analysts all are assigned an internal ID number to identify them. Actimize cannot automatically assign reports or alerts based on any ID number.
 
 
