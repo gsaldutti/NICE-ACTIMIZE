@@ -186,7 +186,7 @@ Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third
 
 ## Citations
 
-(https://www.niceactimize.com)
+[NICE](https://www.niceactimize.com)
 
 
 
