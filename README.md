@@ -168,9 +168,9 @@ Public companies are required report the same metrics. Below are the latest metr
 
 - There is a lack of flexibility with reading trade inventory. With an Open-Source version, the in-house developers could increase customization. 
 - When using the Global Search functionality, and looking up trade alerts, which could number in the thousands, there is no way to export these results into an excel file. It becomes a very tedious job to open up each alert.
--	Another recommendation is for Actimize to have the ability to create reports from their own software. Currently, these compliance reports are created form upstream systems and fed into Actimize
--	Alerts are generated because of some limit on a stored procedure has been reached. The alerts are trades done by the client by one of the traders on a trading desk. Along with the trade is there is also a voice conversation between the two traders that needs to be listened to. Currently, Actimize cannot capture that voice conversation and the analyst has to obtain the voice recording from another system.
--	There are many analysts that use Actimize within an investment bank. The analysts all are assigned an internal ID number to identify them. Actimize cannot automatically assign reports or alerts based on any ID number.
+-	Another recommendation is for Actimize to have the ability to create reports from their own software. Currently, these compliance reports are created upstream from internal or other vendor systems and fed into Actimize.
+-	Alerts are generated because some limit on a stored procedure has been reached. The alerts are typically trades done by clients facilitated by a trading desk. Along with the trade there may be a telephone conversation between two traders that requires analyst review. Currently, Actimize does not integrate the alert timeline and voice recording, necessitating the analyst to toggle between applications.
+-	There are many analysts that use Actimize within an investment bank. The analysts all are assigned an internal ID number to identify them. Actimize does not interface with the firm directory and automatically assign reports or alerts based on any ID number.
 
 ## Citations
 
