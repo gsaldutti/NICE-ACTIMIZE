@@ -190,6 +190,12 @@ NICE
 
 https://www.niceactimize.com
 
+
+
+Big Brother Is Watching Traders at Home for Compliance Slips
+
+https://www.bloomberg.com/news/articles/2020-08-12/big-brother-is-watching-traders-at-home-in-the-coronavirus-era
+
 RegTech Market Worth $16.0 Billion by 2025 - Exclusive Report
 
 https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-billion-by-2025-exclusive-report-by-marketsandmarkets
