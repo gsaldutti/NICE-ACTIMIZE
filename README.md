@@ -190,8 +190,6 @@ NICE
 
 https://www.niceactimize.com
 
-
-
 Big Brother Is Watching Traders at Home for Compliance Slips
 
 https://www.bloomberg.com/news/articles/2020-08-12/big-brother-is-watching-traders-at-home-in-the-coronavirus-era
@@ -221,6 +219,10 @@ https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-bi
 NICE and and Google Cloud (GOOG) collaborate to drive smarter digital conversations and improve self-service experiences
 
 https://www.etrade.wallst.com/v1/stocks/news/search_results.asp?ChallengeUrl=https://idp.etrade.com/idp/SSO.saml2&reinitiate-handshake=0&AuthnContext=authenticated&env=PRD&symbol=NICE
+
+RegTech Market Size, Share & Trends Analysis Report By Organization Size, By Application (Risk & Compliance Management, Identity Management), By Region, And Segment Forecasts, 2019 - 2025
+
+https://www.grandviewresearch.com/industry-analysis/regulatory-technology-market/methodology
 
 ETRADE
 
