@@ -162,7 +162,7 @@ Public companies are required report the same metrics. Below are the latest metr
 
 ## NICE-Actimize should offer an Open-Source version of their Capital Markets Compliance software.
 
-## The following recommnedations are based on actual interviews with users of Actimize from two different, large investment banks.
+## The following recommendations are based on actual interviews with users of Actimize from two different, large investment banks.
 
 ## Compliance analyst, who use the Actimize Capital Markets software are looking at alerts in order to see any insider trading activity with equities, fixed income, currencies and commodities. The alerts are based on certain parameters that are set up in reports. The issues that these users are facing on a daily basis are as follows:
 
