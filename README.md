@@ -18,7 +18,7 @@
 
 ### NICE is traded on NASDAQ under the symbol "NICE", the 2020 revenues were 1.6 billion USD. The company is funded by raising capital through debt or equity offerings.
 
-### Business Activities
+## Business Activities
 
 ### Anti-Money Laundering
  1. Suspicious Activity Monitoring (SAM)
