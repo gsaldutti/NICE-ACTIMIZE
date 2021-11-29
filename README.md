@@ -46,7 +46,7 @@
  - Data Intelligence
  - Cloud Services
 
-## Landscpe
+## Landscape
 
 ### NICE-Actimize has an advantage over its competition with NICE Actimize’s Financial Markets Compliance solution which can handle 1 billion records per day, and is expected to  be scalable to 1.5 billion records in the near future. It can also handle millions of reports, alerts, workflows, complex hierarchies, and Hadoop clusters. Continuous twenty-four-hour trading cycles, records and trading books are passed between trading desks via the NICE Actimize Financial Market Compliance system, offering exceptional protection against legal and regulatory risk. Their competition cannot handle such large trading volume.
 
@@ -135,6 +135,7 @@
 -	Toyota Financial Services
 -	VISA
 
+## Fundamentals
 
 ### NICE-Actimize is a publicly traded company under the symbol “NICE”. Public companies are required report the same metrics. Below are the latest metrics NICE has published. As compared to their competition, NICE is out performing their competition.
 
