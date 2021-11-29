@@ -194,7 +194,8 @@ RegTech Market Worth $16.0 Billion by 2025 - Exclusive Report
 
 https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-billion-by-2025-exclusive-report-by-marketsandmarkets
 
+NICE Actimize Announces ENGAGE LIVE, the Industry’s Largest Virtual Financial Crime Event 
 
-
+https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-billion-by-2025-exclusive-report-by-marketsandmarkets
 
 
