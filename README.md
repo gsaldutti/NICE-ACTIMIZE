@@ -206,7 +206,7 @@ Settlement, Exchanges and Remittance, Smart Contract, Identity Management, and
 Compliance Management/KYC), Organization Size, Vertical, and Region - Global
 Forecast to 2023
 
-
+https://www.researchandmarkets.com/reports/4575978/fintech-blockchain-market-by-provider
 
 NICE Actimize Announces ENGAGE LIVE, the Industry’s Largest Virtual Financial Crime Event 
 
