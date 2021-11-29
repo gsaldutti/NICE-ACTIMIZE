@@ -19,7 +19,6 @@
 
 ### NICE (the parent company) was founded in 1986 as Neptune Intelligence Computer Engineering (NICE) by 7 Israeli former army colleagues who were part of the Talpiot program, which was an elite [Israeli Defense Forces](https://en.wikipedia.org/wiki/Israeli_Defense_Forces "Israeli Defense Forces") (IDF) training program for recruits who had demonstrated outstanding academic ability in the sciences and leadership potential. Graduates pursued double higher education while they served in the army, and they used their expertise to further IDF research and development in technological leadership positions The Chairman and founder was Barry Levin, The company initially focused on developing technology for [security and defense](https://en.wikipedia.org/w/index.php?title=Security_and_defense&action=edit&redlink=1 "Security and defense (page does not exist)") applications, but soon refocused their efforts on civilian applications, mainly for [contact center](https://en.wikipedia.org/wiki/Call_center "Call center"), [financial services](https://en.wikipedia.org/wiki/Financial_services "Financial services") and [business intelligence](https://en.wikipedia.org/wiki/Business_intelligence "Business intelligence") markets. Actimize was acquired by NICE Systems in July 2007 for $281M. Today the parent company NICE is headquartered in Ra’anana, Israel and has 41 offices worldwide in the Americas, APAC and EMEA. NICE-Actimize is headquartered in Hoboken, New Jersey.
 
-### NICE is traded on NASDAQ under the symbol "NICE", the 2020 revenues were 1.6 billion USD. The company is funded by raising capital through debt or equity offerings.
 
 ## Business Activities
 
@@ -85,10 +84,6 @@
 - ACA
 - Foreside
 
-
-
-
-
 ###	NICE-Actimize has over 25,000 customers, including more than 85 of the Fortune 100 companies. The company’s customers are in the below top categories:
 
 - 10/10 TOP U.S. Health Care
@@ -141,7 +136,8 @@
 
 ## Fundamentals
 
-### NICE-Actimize is a publicly traded company under the symbol “NICE”. Public companies are required report the same metrics. Below are the latest metrics NICE has published. As compared to their competition, NICE is out performing their competition.
+### NICE is traded on NASDAQ under the symbol "NICE", the 2020 revenues were 1.6 billion USD. The company is funded by raising capital through debt or equity offerings.
+Public companies are required report the same metrics. Below are the latest metrics NICE has published. As compared to their competition, NICE is out performing their competition.
 
 Revenues: Third quarter 2021 total revenues increased 19.7% to $490.4 million compared to $409.8 million for the third quarter of 2020. 
 
