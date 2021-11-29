@@ -1,7 +1,7 @@
 
 ![NICE Logo](https://user-images.githubusercontent.com/9448001/143780214-b9da7987-9db9-4acc-ae22-94f2b08c9a2c.JPG)
 
-
+---
 # A Case Study: NICE Actimize
 
 # From Regulatory Pressure to Improved Compliance Operational Efficiency
