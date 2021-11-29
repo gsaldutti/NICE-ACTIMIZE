@@ -139,13 +139,13 @@
 ### NICE is traded on NASDAQ under the symbol "NICE", the 2020 revenues were 1.6 billion USD. The company is funded by raising capital through debt or equity offerings.
 Public companies are required report the same metrics. Below are the latest metrics NICE has published. As compared to their competition, NICE is out performing their competition.
 
-Revenues: Third quarter 2021 total revenues increased 19.7% to $490.4 million compared to $409.8 million for the third quarter of 2020. 
+-- Revenues: Third quarter 2021 total revenues increased 19.7% to $490.4 million compared to $409.8 million for the third quarter of 2020. 
 
-Gross Profit: Third quarter 2021 gross profit and gross margin increased to $329.6 million and 67.2%, respectively, compared to $269.7 million and 65.8%, respectively, for the third quarter of 2020.
+-- Gross Profit: Third quarter 2021 gross profit and gross margin increased to $329.6 million and 67.2%, respectively, compared to $269.7 million and 65.8%, respectively, for the third quarter of 2020.
 
-Operating Income: Third quarter 2021 operating income increased 3.6% to $64.2 million compared to $62.0 million, for the third quarter of 2020. Third quarter operating margin decreased to 13.1% compared to 15.1%, for the third quarter of 2020. 
+-- Operating Income: Third quarter 2021 operating income increased 3.6% to $64.2 million compared to $62.0 million, for the third quarter of 2020. Third quarter operating margin decreased to 13.1% compared to 15.1%, for the third quarter of 2020. 
 
-Net Income: Third quarter 2021 net income totaled $47.2 million compared to $50.7 for the third quarter of 2020. Net income margin decreased to 9.6% compared to 12.4% for the third quarter of 2020. 
+--Net Income: Third quarter 2021 net income totaled $47.2 million compared to $50.7 for the third quarter of 2020. Net income margin decreased to 9.6% compared to 12.4% for the third quarter of 2020. 
 
 
 ### NICE trades on the NASDAQ Exchange as an (ADR) American Depository Receipt. An ADR is a certificate issued by a U.S. Bank that represents shares in foreign stock. ADRs and their dividends are priced in U.S. Dollars. 
