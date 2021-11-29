@@ -190,6 +190,10 @@ NICE
 
 https://www.niceactimize.com
 
+Stackshare
+
+https://stackshare.io/nice-actimize/nice-actimize
+
 Big Brother Is Watching Traders at Home for Compliance Slips
 
 https://www.bloomberg.com/news/articles/2020-08-12/big-brother-is-watching-traders-at-home-in-the-coronavirus-era
