@@ -238,6 +238,6 @@ Interviews with:
 Morgan Stanley Actimize user and 
 Barclays Bank Actimize user
 
-NICE-ACTIMIZE "Engage Client Forum Program Guide, October 23-24 2018 - NEW YORK
+NICE-ACTIMIZE "Engage Client Forum Program Guide, October 23-24, 2018 - NEW YORK, NY
 
 
