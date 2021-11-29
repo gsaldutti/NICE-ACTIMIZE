@@ -218,6 +218,10 @@ NICE Actimize Announces ENGAGE LIVE, the Industry’s Largest Virtual Financial 
 
 https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-billion-by-2025-exclusive-report-by-marketsandmarkets
 
+NICE and and Google Cloud (GOOG) collaborate to drive smarter digital conversations and improve self-service experiences
+
+https://www.etrade.wallst.com/v1/stocks/news/search_results.asp?ChallengeUrl=https://idp.etrade.com/idp/SSO.saml2&reinitiate-handshake=0&AuthnContext=authenticated&env=PRD&symbol=NICE
+
 ETRADE
 
 https://us.etrade.com/
@@ -233,5 +237,7 @@ https://en.wikipedia.org/wiki/Israel_Defense_Forces
 Interviews with:
 Morgan Stanley Actimize user and 
 Barclays Bank Actimize user
+
+NICE-ACTIMIZE "Engage Client Forum Program Guide, October 23-24 2018 - NEW YORK
 
 
