@@ -2,7 +2,7 @@
 ![NICE Logo](https://user-images.githubusercontent.com/9448001/143780214-b9da7987-9db9-4acc-ae22-94f2b08c9a2c.JPG)
 
 ---
-# A Case Study: NICE Actimize
+# A Case Study: NICE-Actimize
 ---
 
 # From Regulatory Pressure to Improved Compliance Operational Efficiency
@@ -172,7 +172,7 @@ Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third
 
 ## Recommendations
 
-## NICE -Actimize should offer an Open-Source version of their Capital Markets Compliance software.
+## NICE-Actimize should offer an Open-Source version of their Capital Markets Compliance software.
 
 ## The following recommnedations are based on actual interviews with users of Actimize from two different, large investment banks.
 
