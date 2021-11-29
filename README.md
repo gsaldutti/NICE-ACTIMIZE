@@ -194,6 +194,13 @@ RegTech Market Worth $16.0 Billion by 2025 - Exclusive Report
 
 https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-billion-by-2025-exclusive-report-by-marketsandmarkets
 
+Anti-Money Laundering Solution Market by Component, Technology Type (KYC
+Systems, Transaction Monitoring, Case Management, Compliance Management,
+Auditing and Reporting), Deployment Mode, Organization Size, and Region -
+Global Forecast to 2024
+
+https://www.marketsandmarkets.com/Market-Reports/anti-money-laundering-solutions-market-95490454.html
+
 NICE Actimize Announces ENGAGE LIVE, the Industry’s Largest Virtual Financial Crime Event 
 
 https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-billion-by-2025-exclusive-report-by-marketsandmarkets
