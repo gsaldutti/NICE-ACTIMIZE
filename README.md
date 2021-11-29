@@ -201,6 +201,13 @@ Global Forecast to 2024
 
 https://www.marketsandmarkets.com/Market-Reports/anti-money-laundering-solutions-market-95490454.html
 
+FinTech Blockchain Market by Provider, Application (Payments, Clearing, and
+Settlement, Exchanges and Remittance, Smart Contract, Identity Management, and
+Compliance Management/KYC), Organization Size, Vertical, and Region - Global
+Forecast to 2023
+
+
+
 NICE Actimize Announces ENGAGE LIVE, the Industry’s Largest Virtual Financial Crime Event 
 
 https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-billion-by-2025-exclusive-report-by-marketsandmarkets
