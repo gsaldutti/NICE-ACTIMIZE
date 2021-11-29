@@ -170,7 +170,7 @@ Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third
 
 ## NICE -Actimize should offer an Open-Source version of their Capital Markets Compliance software.
 
-## The following reasons are based on actual interviews with users of Actimize from two different, large investment banks.
+## The following recommnedations are based on actual interviews with users of Actimize from two different, large investment banks.
 
 ## Compliance analyst, who use the Actimize Capital Markets software are looking at alerts in order to see any insider trading activity with equities, fixed income, currencies and commodities. The alerts are based on certain parameters that are set up in reports. The issues that these users are facing on a daily basis are as follows:
 
@@ -180,7 +180,7 @@ Fully Diluted Earnings Per Share: Fully diluted earnings per share for the Third
 -	Alerts are generated because of some limit on a stored procedure has been reached. The alerts are trades done by the client by one of the traders on a trading desk. Along with the trade is there is also a voice conversation between the two traders that needs to be listened to. Currently, Actimize cannot capture that voice conversation and the analyst has to obtain the voice recording from another system.
 -	There are many analysts that use Actimize within an investment bank. The analysts all are assigned an internal ID number to identify them. Actimize cannot automatically assign reports or alerts based on any ID number.
 
-
+## Citations
 
 
 
