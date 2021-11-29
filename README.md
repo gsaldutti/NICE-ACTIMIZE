@@ -201,3 +201,7 @@ https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-bi
 ETRADE
 
 https://us.etrade.com/
+
+NICE LTD. Wikipedia
+
+https://en.wikipedia.org/wiki/NICE_Ltd.
