@@ -55,6 +55,7 @@
 - Select2
 - Incapusla
 
+## Results
 
 ## NICE is consistently ranked Number One in the REGTECH space, NICE offers an end-to-end system integration of implementations, upgrades, maintenance, testing, data integration, support and custom implementations for Watch List Filtering, Customer Due Diligence, Suspicious Activity Monitoring, Integrated Fraud Management, Risk Case Management, Financial Markets Compliance solutions. NICE-Actimize has many advantages over its competition. An example is with NICE Actimize’s Financial Markets Compliance solution which can handle 1 billion records per day, and is expected to  be scalable to 1.5 billion records in the near future. It can also handle millions of reports, alerts, workflows, complex hierarchies, and Hadoop clusters. Continuous twenty-four-hour trading cycles, records and trading books are passed between trading desks via the NICE Actimize Financial Market Compliance system, offering exceptional protection against legal and regulatory risk. Their competition cannot handle such large trading volume and does not offer the same.
 
