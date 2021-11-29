@@ -198,4 +198,6 @@ NICE Actimize Announces ENGAGE LIVE, the Industry’s Largest Virtual Financial 
 
 https://www.bloomberg.com/press-releases/2020-05-12/regtech-market-worth-16-0-billion-by-2025-exclusive-report-by-marketsandmarkets
 
+ETRADE
 
+https://us.etrade.com/
